@@ -1,0 +1,117 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+header{
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.container{
+    width: 80%;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.blog,
+.contact {
+    margin-top: 20px;
+    padding: 20px;
+    background-color: #fff;
+}
+
+.blog {
+    margin-top: 20px;
+    padding: 20px;
+    background-color: #fff;
+}
+
+.blog h2 {
+    text-align: center;
+}
+
+.blog-entry {
+    margin-bottom: 30px;
+    display: flex;
+    align-items: flex-start; /* Alinea los elementos en la parte superior del contenedor flex */
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* d2: style(css): Set up fixed footer at bottom of page */
+footer {
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
